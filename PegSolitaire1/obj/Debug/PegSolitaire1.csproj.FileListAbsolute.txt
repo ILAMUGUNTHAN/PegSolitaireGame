@@ -1,0 +1,10 @@
+C:\Users\320265156\Source\Repos\PegSolitaire1\PegSolitaire1\bin\Debug\PegSolitaire1.exe.config
+C:\Users\320265156\Source\Repos\PegSolitaire1\PegSolitaire1\bin\Debug\PegSolitaire1.exe
+C:\Users\320265156\Source\Repos\PegSolitaire1\PegSolitaire1\bin\Debug\PegSolitaire1.pdb
+C:\Users\320265156\Source\Repos\PegSolitaire1\PegSolitaire1\obj\Debug\PegSolitaire1.csproj.AssemblyReference.cache
+C:\Users\320265156\Source\Repos\PegSolitaire1\PegSolitaire1\obj\Debug\PegSolitaire1.Form1.resources
+C:\Users\320265156\Source\Repos\PegSolitaire1\PegSolitaire1\obj\Debug\PegSolitaire1.Properties.Resources.resources
+C:\Users\320265156\Source\Repos\PegSolitaire1\PegSolitaire1\obj\Debug\PegSolitaire1.csproj.GenerateResource.cache
+C:\Users\320265156\Source\Repos\PegSolitaire1\PegSolitaire1\obj\Debug\PegSolitaire1.csproj.CoreCompileInputs.cache
+C:\Users\320265156\Source\Repos\PegSolitaire1\PegSolitaire1\obj\Debug\PegSolitaire1.exe
+C:\Users\320265156\Source\Repos\PegSolitaire1\PegSolitaire1\obj\Debug\PegSolitaire1.pdb
